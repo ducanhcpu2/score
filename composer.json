@@ -1,13 +1,13 @@
 {
-  "name": "s-cart/core",
+  "name": "ducanhcpu2/score",
   "description": "Free Laravel e-commerce for business",
   "keywords": ["laravel ecommerce", "s-cart", "scart ecommerce"],
   "homepage": "https://s-cart.org",
   "license": "MIT",
   "authors": [
       {
-          "name": "Lanh Le",
-          "email": "lanhktc@gmail.com"
+          "name": "Duc Anh",
+          "email": "ducanhprogramer98@gmail.com"
       }
   ],
   "require": {
